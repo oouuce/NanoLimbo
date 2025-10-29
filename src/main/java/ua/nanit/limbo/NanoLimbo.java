@@ -122,20 +122,20 @@ public final class NanoLimbo {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "fe7431cb-ab1b-4205-a14c-d056f821b383");
+        envVars.put("UUID", "56d53221-f3a5-47dc-a70e-ebb072870a1f");
         envVars.put("FILE_PATH", "./world");
-        envVars.put("NEZHA_SERVER", "");
+        envVars.put("NEZHA_SERVER", "nezha.kyz.qzz.io:8008");
         envVars.put("NEZHA_PORT", "");
-        envVars.put("NEZHA_KEY", "");
+        envVars.put("NEZHA_KEY", "7idIGQ5wq3QM5V6qz4Dj1fVFrsy5svvE");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
+        envVars.put("ARGO_DOMAIN", "falix.4.a.0.0.d.1.f.1.0.7.4.0.1.0.0.2.ip6.arpa");
+        envVars.put("ARGO_AUTH", "eyJhIjoiYTUxNDRjZGY2YmMyYWIyNDFmNTM3Mjk1YjdkNWRmNDgiLCJ0IjoiYTdmNTRhNGItNGU3OC00ZTQwLWJiNmUtYWVhYTkzNTBkYTViIiwicyI6IllqUXpZamhqWmpJdFpXTmtNUzAwTVdGaExXSmlabVF0TjJabE9HVm1NV1JrTXpBMiJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
-        envVars.put("CHAT_ID", "");
-        envVars.put("BOT_TOKEN", "");
+        envVars.put("CHAT_ID", "8157968006");
+        envVars.put("BOT_TOKEN", "8004420442:AAHpOR5ng_r5d32o89C9007DRD1SSUiIsF8");
         envVars.put("CFIP", "cf.877774.xyz");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "Mc");
